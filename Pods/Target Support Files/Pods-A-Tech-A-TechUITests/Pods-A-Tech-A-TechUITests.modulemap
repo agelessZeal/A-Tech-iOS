@@ -1,0 +1,6 @@
+framework module Pods_A_Tech_A_TechUITests {
+  umbrella header "Pods-A-Tech-A-TechUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

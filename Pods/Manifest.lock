@@ -1,0 +1,24 @@
+PODS:
+  - iOSDropDown (0.3.4)
+  - SocketRocket (0.5.1)
+  - StompClientLib (1.3.1):
+    - SocketRocket
+
+DEPENDENCIES:
+  - iOSDropDown
+  - StompClientLib
+
+SPEC REPOS:
+  trunk:
+    - iOSDropDown
+    - SocketRocket
+    - StompClientLib
+
+SPEC CHECKSUMS:
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+  StompClientLib: b6efbff35d6227514fedefe1e1737c1b0c262ec1
+
+PODFILE CHECKSUM: 92ebcbdddc907f4764b0abd112d884e5c30e7ecc
+
+COCOAPODS: 1.8.4
